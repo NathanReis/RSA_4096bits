@@ -31,3 +31,12 @@ Quando finalizado, irá aparece uma janela, igual da imagem abaixo, na parte inf
 No explorador de arquivos haverá um menu, que provavelmente estará fechado, chamado `JAVA PROJECTS`, basta abrir, passar o ponteiro do mouse por `RSA_4096bits` e cilicar no ícone de play que aparecerá do lado direito, como visto na próxima imagem.
 
 ![Start da aplicação](https://user-images.githubusercontent.com/53984490/158031168-c8a6b50a-8e94-4599-98bd-99128dccc3ff.png)
+
+## Integrantes
+
+| Nome                        | R.A.      |
+| --------------------------- | --------- |
+| Silas Hikaru Hiuga          | 082170028 |
+| Vitor de Oliveira Lupinetti | 082170031 |
+| William de Almeida Oliveira | 082170032 |
+| Nathan da Silva Reis        | 082170036 |
